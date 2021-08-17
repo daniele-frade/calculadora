@@ -1,5 +1,7 @@
 // Calculadora em Javascript //
 
+// test2
+
 /* 
 Baseados em dados de análise de anúncios anteriores, a agência tem os seguintes dados:
 
